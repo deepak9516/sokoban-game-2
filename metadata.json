@@ -1,0 +1,6 @@
+{
+  "name": "Sokoban Puzzle Game",
+  "description": "A classic, fully responsive Sokoban (Box Pusher) puzzle game featuring custom canvas rendering, Web Audio synthesized sound effects, virtual D-pad, unlimited undo, and verified levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
